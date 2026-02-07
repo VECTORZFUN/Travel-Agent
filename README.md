@@ -242,7 +242,3 @@ For issues and questions:
 - GitHub Issues: [Create an issue]
 - Email: support@travelai.com
 - Documentation: [Full docs]
-
----
-
-**Built with ❤️ using Claude AI**
